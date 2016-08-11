@@ -1,0 +1,12 @@
+there are three obvious sets here.
+1-one set going from top left to bottom right at a roughly 20 degree angle
+2-one set going bottom left to top right (almost perpendicular to first) 
+3-a third set or random or curvy features that likley defines the set perpendicular to the field of view
+
+set 3 appears as though it could be more dense than the first 2, so the apparaent fracture
+density is likely greatly undersestimated
+furthermore, I am mapping an area that is intact, whereas most of the basin is likely not,
+so where i am mapping the fracture intensity is likely less
+
+joints tend to end in eachother to produce blocks, and blcoks are often already segregrated
+
